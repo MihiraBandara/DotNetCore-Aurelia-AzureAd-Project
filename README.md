@@ -1,0 +1,1 @@
+# DotNetCore-Aurelia-AzureAd-Project
